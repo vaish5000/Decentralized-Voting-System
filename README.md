@@ -18,3 +18,15 @@ truffle migrate --reset
 10.	Now we can select the candidate whom we want to elect and cast our vote
 11.	We will be then shown a confirmation window from the metamask. We have to click on Confirm and then we will be redirected to the results page.
 12.	The results page will show that the vote we casted is added and the current votes of the candidates along with highest voted candidate. 
+## Screenshots
+1-Home Screen:
+<br>![image](https://user-images.githubusercontent.com/86741118/124347965-dd8e4300-dc04-11eb-93c9-d043c2d428be.png)
+<br>2-Importing Account From Ganache:
+<br>![image](https://user-images.githubusercontent.com/86741118/124348044-660ce380-dc05-11eb-829f-618a1cf92e60.png)
+<br>![image](https://user-images.githubusercontent.com/86741118/124347996-19290d00-dc05-11eb-861d-808297893a54.png)
+<br>![image](https://user-images.githubusercontent.com/86741118/124348036-5ab9b800-dc05-11eb-8618-43f302c127b1.png)
+<br>3-Casting Vote:
+<br>![image](https://user-images.githubusercontent.com/86741118/124348010-352cae80-dc05-11eb-987e-8d0d4ce9b19b.png)
+<br>![image](https://user-images.githubusercontent.com/86741118/124348102-a9675200-dc05-11eb-8b3e-8d99cd7bf84e.png)
+<br>4-Results Page:
+<br>![image](https://user-images.githubusercontent.com/86741118/124348028-4bd30580-dc05-11eb-9c34-303b253f8f39.png)
