@@ -1,7 +1,7 @@
 # Decentralized-Voting-System
 A Decentralized E-Voting System Developed using Ganache and Metamask 
 ## About
-This is a Blockchain-based project, made by me [[Pilla Vaishno Mohan](https://www.linkedin.com/in/pilla-vaishno-mohan-b61a29212)]. This project is entirely based on Ethereum Blockchain with Web3Js to link it with HTML. Blockchain Technology is yet very hard to be hacked [ Until You have committed mistakes in Protocols or Coding Part ] that is what allows implementation of Blockchain in the Voting System. Once Blockchain is introduced in the Voting System, no one can put question on it's integrity. Thus, an inititative, of switching our voting system on Blockchain must be done by Governmen.
+This is a Blockchain-based project, made by me [[Pilla Vaishno Mohan](https://www.linkedin.com/in/pilla-vaishno-mohan-b61a29212)]. This project is entirely based on Ethereum Blockchain with Web3Js to link it with HTML. Blockchain Technology is yet very hard to be hacked [ Until You have committed mistakes in Protocols or Coding Part ] that is what allows implementation of Blockchain in the Voting System. Once Blockchain is introduced in the Voting System, no one can put question on it's integrity. Thus, an inititative, of switching our voting system on Blockchain must be done by Government.
 In this project we have used Etherem Blockchain to demonstrate the voting procedure.
 ## Procedure
 1.	Start your Ganache application and click “QUICKSTART” this will provide us 10 free accounts with 100 Ethereum each.
